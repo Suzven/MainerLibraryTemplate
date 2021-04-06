@@ -1,0 +1,3 @@
+include ':templater'
+include ':app'
+rootProject.name = "MainerLibraryTemplate"
